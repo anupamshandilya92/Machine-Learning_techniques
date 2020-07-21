@@ -1,2 +1,2 @@
 # Machine-Learning_techniques
-Repository og different ML techniques
+Repository of different ML techniques
